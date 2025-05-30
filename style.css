@@ -9,3 +9,12 @@ body {
     line-height: 1.6;
     background-color: #f9f9f9;
 }
+
+.header {
+    background-color: #1f2937;
+    color: #ffffff;
+    padding: 20px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
