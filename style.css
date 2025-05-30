@@ -23,3 +23,10 @@ body {
     font-size: 24px;
     font-weight: bold;
 }
+
+.links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
