@@ -38,3 +38,12 @@ body {
     text-decoration: none;
     color: inherit;
 }
+
+.awesome-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px;
+    background-color: #1f2937;
+    color: #ffffff;
+}
