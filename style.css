@@ -103,4 +103,18 @@ cursor: pointer;
     flex-wrap: wrap;
 }
 
+.info-title .info-img {
+    width: 120px;
+    height: 120px;
+    background-color:  #d1d5db;
+    border-radius: 10px;
+    margin: 0 auto 15px;
+}
+
+.info-text {
+    max-width: 150px;
+    color: #4b5563;
+    font-size: 14px;
+    margin: 0 auto;
+}
 
