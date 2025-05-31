@@ -83,3 +83,9 @@ cursor: pointer;
     flex: 1;
     margin-left: 40px;
 }
+
+.white.background {
+    background-color: #ffffff;
+    padding: 60px;
+    text-align: center;
+}
