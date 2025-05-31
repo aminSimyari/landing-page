@@ -96,5 +96,11 @@ cursor: pointer;
     margin-bottom: 40px;
 }
 
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
 
 
