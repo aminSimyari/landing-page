@@ -170,3 +170,10 @@ cursor: pointer;
     cursor: pointer;
     margin-top: 10px;
 }
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    color: #6b7280;
+}
