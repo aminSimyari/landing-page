@@ -136,3 +136,16 @@ cursor: pointer;
     font-weight: bold;
     font-size: 18px;
 }
+
+.signup-container {
+    background-color: #3882f6;
+    color: white;
+    padding: 40px 60px;
+    margin: 60px auto;
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 900px;
+    flex-wrap: wrap;
+}
